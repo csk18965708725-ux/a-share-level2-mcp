@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+<title id="title">A 股十档行情 · 逐笔委托 · 逐笔成交</title>
+<desc id="desc">A-share Level-2 historical data product banner</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071427"/><stop offset="1" stop-color="#102b52"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#48d7ff"/><stop offset="1" stop-color="#b06cff"/></linearGradient></defs>
+<rect width="1600" height="520" rx="28" fill="url(#bg)"/>
+<g opacity=".35" stroke="#6fa8e8"><path d="M1030 90H1540M1030 150H1540M1030 210H1540M1030 270H1540M1030 330H1540M1030 390H1540"/><path d="M1090 60V420M1180 60V420M1270 60V420M1360 60V420M1450 60V420"/></g>
+<path d="M1040 356 C1110 310,1165 333,1220 255 S1325 180,1380 218 S1470 142,1540 92" fill="none" stroke="url(#accent)" stroke-width="7"/>
+<text x="84" y="112" fill="#7edfff" font-size="28" font-family="Arial,Microsoft YaHei,sans-serif" font-weight="700">A-SHARE LEVEL-2 HISTORICAL DATA</text>
+<text x="84" y="198" fill="#fff" font-size="62" font-family="Arial,Microsoft YaHei,sans-serif" font-weight="800">A 股十档行情 · 逐笔委托 · 逐笔成交</text>
+<text x="84" y="254" fill="#c8d8ee" font-size="29" font-family="Arial,Microsoft YaHei,sans-serif">10-Level Quotes · Tick Orders · Tick Trades</text>
+<g font-family="Arial,Microsoft YaHei,sans-serif">
+<rect x="84" y="302" width="260" height="70" rx="14" fill="#12395e" stroke="#2c78b7"/><text x="214" y="332" text-anchor="middle" fill="#7edfff" font-size="18">HISTORICAL COVERAGE</text><text x="214" y="360" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">2017 → Latest</text>
+<rect x="362" y="302" width="260" height="70" rx="14" fill="#12395e" stroke="#2c78b7"/><text x="492" y="332" text-anchor="middle" fill="#7edfff" font-size="18">COMPRESSED ARCHIVE</text><text x="492" y="360" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">4.95 TB</text>
+<rect x="640" y="302" width="300" height="70" rx="14" fill="#12395e" stroke="#2c78b7"/><text x="790" y="332" text-anchor="middle" fill="#7edfff" font-size="18">ON-DEMAND EXTRACTION</text><text x="790" y="360" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">Date · Symbol · File</text>
+<text x="84" y="460" fill="#a9c5e7" font-size="24">Selective cloud extraction · MCP-ready application concept</text>
+</g></svg>
